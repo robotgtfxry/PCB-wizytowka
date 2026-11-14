@@ -1,0 +1,9 @@
+Qty,References,Value / part,Footprint,Side,Notes
+128,D1-D128,LED 0603 yellow-green,wizytowka:LED_0603_1608Metric_NoSilk,top,"LED 0603 (1608 metric), yellow-green 565-575 nm AlGaInP, Vf ~2.0 V (pure green InGaN, Vf ~2.8 V, is too dim on CR2032)"
+1,U1,CH32V003F4P6,Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm,bottom,"WCH RISC-V MCU, TSSOP-20"
+3,"RN1,RN2,RN3",4x33R array 0402 (convex),Resistor_SMD:R_Array_Convex_4x0402,bottom,"4 x 33 ohm resistor array, 4x0402 convex (e.g. Yageo YC164 / Bourns CAY16)"
+1,C1,100nF 0402 X7R,Capacitor_SMD:C_0402_1005Metric,bottom,
+1,C2,22uF 0805 X5R 6.3V,Capacitor_SMD:C_0805_2012Metric,bottom,
+1,Q1,AO3401A P-MOSFET,Package_TO_SOT_SMD:SOT-23,bottom,"reverse-battery protection; any SOT-23 P-MOSFET, Vgs(th) < 1.3 V"
+2,"SW1,SW2",Tactile 4.2x3.2 SMD,Button_Switch_SMD:SW_SPST_PTS810,top,"SMD tact switch 4.2 x 3.2 mm, e.g. C&K PTS810 / XKB TS-1187A"
+1,BT1,CR2032 (card fork holder),wizytowka:CR2032_PCB_FORK,bottom,"CR2032 cell - no holder part, held by the one-tongue fork cut in the card"

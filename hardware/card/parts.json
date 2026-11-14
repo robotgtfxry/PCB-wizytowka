@@ -1,0 +1,1244 @@
+[
+ [
+  "D1",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  6.3,
+  5.6,
+  135,
+  "top"
+ ],
+ [
+  "D2",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  8.84,
+  5.6,
+  135,
+  "top"
+ ],
+ [
+  "D3",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  11.379999999999999,
+  5.6,
+  135,
+  "top"
+ ],
+ [
+  "D4",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  13.92,
+  5.6,
+  135,
+  "top"
+ ],
+ [
+  "D5",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  16.46,
+  5.6,
+  135,
+  "top"
+ ],
+ [
+  "D6",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  19.0,
+  5.6,
+  -45,
+  "top"
+ ],
+ [
+  "D7",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  21.54,
+  5.6,
+  -45,
+  "top"
+ ],
+ [
+  "D8",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  24.080000000000002,
+  5.6,
+  -45,
+  "top"
+ ],
+ [
+  "D9",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  26.62,
+  5.6,
+  -45,
+  "top"
+ ],
+ [
+  "D10",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  29.16,
+  5.6,
+  135,
+  "top"
+ ],
+ [
+  "D11",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  31.7,
+  5.6,
+  135,
+  "top"
+ ],
+ [
+  "D12",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  34.24,
+  5.6,
+  135,
+  "top"
+ ],
+ [
+  "D13",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  36.78,
+  5.6,
+  135,
+  "top"
+ ],
+ [
+  "D14",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  39.32,
+  5.6,
+  135,
+  "top"
+ ],
+ [
+  "D15",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  41.86,
+  5.6,
+  135,
+  "top"
+ ],
+ [
+  "D16",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  44.4,
+  5.6,
+  135,
+  "top"
+ ],
+ [
+  "D17",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  6.3,
+  8.14,
+  135,
+  "top"
+ ],
+ [
+  "D18",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  8.84,
+  8.14,
+  135,
+  "top"
+ ],
+ [
+  "D19",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  11.379999999999999,
+  8.14,
+  135,
+  "top"
+ ],
+ [
+  "D20",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  13.92,
+  8.14,
+  135,
+  "top"
+ ],
+ [
+  "D21",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  16.46,
+  8.14,
+  135,
+  "top"
+ ],
+ [
+  "D22",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  19.0,
+  8.14,
+  -45,
+  "top"
+ ],
+ [
+  "D23",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  21.54,
+  8.14,
+  -45,
+  "top"
+ ],
+ [
+  "D24",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  24.080000000000002,
+  8.14,
+  -45,
+  "top"
+ ],
+ [
+  "D25",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  26.62,
+  8.14,
+  -45,
+  "top"
+ ],
+ [
+  "D26",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  29.16,
+  8.14,
+  135,
+  "top"
+ ],
+ [
+  "D27",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  31.7,
+  8.14,
+  135,
+  "top"
+ ],
+ [
+  "D28",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  34.24,
+  8.14,
+  135,
+  "top"
+ ],
+ [
+  "D29",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  36.78,
+  8.14,
+  135,
+  "top"
+ ],
+ [
+  "D30",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  39.32,
+  8.14,
+  135,
+  "top"
+ ],
+ [
+  "D31",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  41.86,
+  8.14,
+  135,
+  "top"
+ ],
+ [
+  "D32",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  44.4,
+  8.14,
+  135,
+  "top"
+ ],
+ [
+  "D33",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  6.3,
+  10.68,
+  135,
+  "top"
+ ],
+ [
+  "D34",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  8.84,
+  10.68,
+  135,
+  "top"
+ ],
+ [
+  "D35",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  11.379999999999999,
+  10.68,
+  135,
+  "top"
+ ],
+ [
+  "D36",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  13.92,
+  10.68,
+  135,
+  "top"
+ ],
+ [
+  "D37",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  16.46,
+  10.68,
+  135,
+  "top"
+ ],
+ [
+  "D38",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  19.0,
+  10.68,
+  -45,
+  "top"
+ ],
+ [
+  "D39",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  21.54,
+  10.68,
+  -45,
+  "top"
+ ],
+ [
+  "D40",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  24.080000000000002,
+  10.68,
+  -45,
+  "top"
+ ],
+ [
+  "D41",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  26.62,
+  10.68,
+  -45,
+  "top"
+ ],
+ [
+  "D42",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  29.16,
+  10.68,
+  135,
+  "top"
+ ],
+ [
+  "D43",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  31.7,
+  10.68,
+  135,
+  "top"
+ ],
+ [
+  "D44",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  34.24,
+  10.68,
+  135,
+  "top"
+ ],
+ [
+  "D45",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  36.78,
+  10.68,
+  135,
+  "top"
+ ],
+ [
+  "D46",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  39.32,
+  10.68,
+  135,
+  "top"
+ ],
+ [
+  "D47",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  41.86,
+  10.68,
+  135,
+  "top"
+ ],
+ [
+  "D48",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  44.4,
+  10.68,
+  135,
+  "top"
+ ],
+ [
+  "D49",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  6.3,
+  13.219999999999999,
+  135,
+  "top"
+ ],
+ [
+  "D50",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  8.84,
+  13.219999999999999,
+  135,
+  "top"
+ ],
+ [
+  "D51",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  11.379999999999999,
+  13.219999999999999,
+  135,
+  "top"
+ ],
+ [
+  "D52",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  13.92,
+  13.219999999999999,
+  135,
+  "top"
+ ],
+ [
+  "D53",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  16.46,
+  13.219999999999999,
+  135,
+  "top"
+ ],
+ [
+  "D54",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  19.0,
+  13.219999999999999,
+  -45,
+  "top"
+ ],
+ [
+  "D55",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  21.54,
+  13.219999999999999,
+  -45,
+  "top"
+ ],
+ [
+  "D56",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  24.080000000000002,
+  13.219999999999999,
+  -45,
+  "top"
+ ],
+ [
+  "D57",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  26.62,
+  13.219999999999999,
+  -45,
+  "top"
+ ],
+ [
+  "D58",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  29.16,
+  13.219999999999999,
+  135,
+  "top"
+ ],
+ [
+  "D59",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  31.7,
+  13.219999999999999,
+  135,
+  "top"
+ ],
+ [
+  "D60",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  34.24,
+  13.219999999999999,
+  135,
+  "top"
+ ],
+ [
+  "D61",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  36.78,
+  13.219999999999999,
+  135,
+  "top"
+ ],
+ [
+  "D62",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  39.32,
+  13.219999999999999,
+  135,
+  "top"
+ ],
+ [
+  "D63",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  41.86,
+  13.219999999999999,
+  135,
+  "top"
+ ],
+ [
+  "D64",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  44.4,
+  13.219999999999999,
+  135,
+  "top"
+ ],
+ [
+  "D65",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  6.3,
+  15.76,
+  135,
+  "top"
+ ],
+ [
+  "D66",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  8.84,
+  15.76,
+  135,
+  "top"
+ ],
+ [
+  "D67",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  11.379999999999999,
+  15.76,
+  135,
+  "top"
+ ],
+ [
+  "D68",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  13.92,
+  15.76,
+  135,
+  "top"
+ ],
+ [
+  "D69",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  16.46,
+  15.76,
+  135,
+  "top"
+ ],
+ [
+  "D70",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  19.0,
+  15.76,
+  -45,
+  "top"
+ ],
+ [
+  "D71",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  21.54,
+  15.76,
+  -45,
+  "top"
+ ],
+ [
+  "D72",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  24.080000000000002,
+  15.76,
+  -45,
+  "top"
+ ],
+ [
+  "D73",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  26.62,
+  15.76,
+  -45,
+  "top"
+ ],
+ [
+  "D74",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  29.16,
+  15.76,
+  135,
+  "top"
+ ],
+ [
+  "D75",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  31.7,
+  15.76,
+  135,
+  "top"
+ ],
+ [
+  "D76",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  34.24,
+  15.76,
+  135,
+  "top"
+ ],
+ [
+  "D77",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  36.78,
+  15.76,
+  135,
+  "top"
+ ],
+ [
+  "D78",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  39.32,
+  15.76,
+  135,
+  "top"
+ ],
+ [
+  "D79",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  41.86,
+  15.76,
+  135,
+  "top"
+ ],
+ [
+  "D80",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  44.4,
+  15.76,
+  135,
+  "top"
+ ],
+ [
+  "D81",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  6.3,
+  18.299999999999997,
+  135,
+  "top"
+ ],
+ [
+  "D82",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  8.84,
+  18.299999999999997,
+  135,
+  "top"
+ ],
+ [
+  "D83",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  11.379999999999999,
+  18.299999999999997,
+  135,
+  "top"
+ ],
+ [
+  "D84",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  13.92,
+  18.299999999999997,
+  135,
+  "top"
+ ],
+ [
+  "D85",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  16.46,
+  18.299999999999997,
+  135,
+  "top"
+ ],
+ [
+  "D86",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  19.0,
+  18.299999999999997,
+  -45,
+  "top"
+ ],
+ [
+  "D87",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  21.54,
+  18.299999999999997,
+  -45,
+  "top"
+ ],
+ [
+  "D88",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  24.080000000000002,
+  18.299999999999997,
+  -45,
+  "top"
+ ],
+ [
+  "D89",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  26.62,
+  18.299999999999997,
+  -45,
+  "top"
+ ],
+ [
+  "D90",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  29.16,
+  18.299999999999997,
+  135,
+  "top"
+ ],
+ [
+  "D91",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  31.7,
+  18.299999999999997,
+  135,
+  "top"
+ ],
+ [
+  "D92",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  34.24,
+  18.299999999999997,
+  135,
+  "top"
+ ],
+ [
+  "D93",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  36.78,
+  18.299999999999997,
+  135,
+  "top"
+ ],
+ [
+  "D94",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  39.32,
+  18.299999999999997,
+  135,
+  "top"
+ ],
+ [
+  "D95",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  41.86,
+  18.299999999999997,
+  135,
+  "top"
+ ],
+ [
+  "D96",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  44.4,
+  18.299999999999997,
+  135,
+  "top"
+ ],
+ [
+  "D97",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  6.3,
+  20.84,
+  135,
+  "top"
+ ],
+ [
+  "D98",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  8.84,
+  20.84,
+  135,
+  "top"
+ ],
+ [
+  "D99",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  11.379999999999999,
+  20.84,
+  135,
+  "top"
+ ],
+ [
+  "D100",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  13.92,
+  20.84,
+  135,
+  "top"
+ ],
+ [
+  "D101",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  16.46,
+  20.84,
+  135,
+  "top"
+ ],
+ [
+  "D102",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  19.0,
+  20.84,
+  -45,
+  "top"
+ ],
+ [
+  "D103",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  21.54,
+  20.84,
+  -45,
+  "top"
+ ],
+ [
+  "D104",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  24.080000000000002,
+  20.84,
+  -45,
+  "top"
+ ],
+ [
+  "D105",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  26.62,
+  20.84,
+  -45,
+  "top"
+ ],
+ [
+  "D106",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  29.16,
+  20.84,
+  135,
+  "top"
+ ],
+ [
+  "D107",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  31.7,
+  20.84,
+  135,
+  "top"
+ ],
+ [
+  "D108",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  34.24,
+  20.84,
+  135,
+  "top"
+ ],
+ [
+  "D109",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  36.78,
+  20.84,
+  135,
+  "top"
+ ],
+ [
+  "D110",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  39.32,
+  20.84,
+  135,
+  "top"
+ ],
+ [
+  "D111",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  41.86,
+  20.84,
+  135,
+  "top"
+ ],
+ [
+  "D112",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  44.4,
+  20.84,
+  135,
+  "top"
+ ],
+ [
+  "D113",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  6.3,
+  23.380000000000003,
+  135,
+  "top"
+ ],
+ [
+  "D114",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  8.84,
+  23.380000000000003,
+  135,
+  "top"
+ ],
+ [
+  "D115",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  11.379999999999999,
+  23.380000000000003,
+  135,
+  "top"
+ ],
+ [
+  "D116",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  13.92,
+  23.380000000000003,
+  135,
+  "top"
+ ],
+ [
+  "D117",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  16.46,
+  23.380000000000003,
+  135,
+  "top"
+ ],
+ [
+  "D118",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  19.0,
+  23.380000000000003,
+  -45,
+  "top"
+ ],
+ [
+  "D119",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  21.54,
+  23.380000000000003,
+  -45,
+  "top"
+ ],
+ [
+  "D120",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  24.080000000000002,
+  23.380000000000003,
+  -45,
+  "top"
+ ],
+ [
+  "D121",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  26.62,
+  23.380000000000003,
+  -45,
+  "top"
+ ],
+ [
+  "D122",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  29.16,
+  23.380000000000003,
+  135,
+  "top"
+ ],
+ [
+  "D123",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  31.7,
+  23.380000000000003,
+  135,
+  "top"
+ ],
+ [
+  "D124",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  34.24,
+  23.380000000000003,
+  135,
+  "top"
+ ],
+ [
+  "D125",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  36.78,
+  23.380000000000003,
+  135,
+  "top"
+ ],
+ [
+  "D126",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  39.32,
+  23.380000000000003,
+  135,
+  "top"
+ ],
+ [
+  "D127",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  41.86,
+  23.380000000000003,
+  135,
+  "top"
+ ],
+ [
+  "D128",
+  "LED 0603 yellow-green",
+  "wizytowka:LED_0603_1608Metric_NoSilk",
+  44.4,
+  23.380000000000003,
+  135,
+  "top"
+ ],
+ [
+  "U1",
+  "CH32V003F4P6",
+  "Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm",
+  58.0,
+  14.0,
+  0,
+  "bottom"
+ ],
+ [
+  "RN1",
+  "4x33R array 0402 (convex)",
+  "Resistor_SMD:R_Array_Convex_4x0402",
+  52.4,
+  10.4,
+  0,
+  "bottom"
+ ],
+ [
+  "RN2",
+  "4x33R array 0402 (convex)",
+  "Resistor_SMD:R_Array_Convex_4x0402",
+  52.4,
+  13.4,
+  0,
+  "bottom"
+ ],
+ [
+  "RN3",
+  "4x33R array 0402 (convex)",
+  "Resistor_SMD:R_Array_Convex_4x0402",
+  52.4,
+  15.95,
+  0,
+  "bottom"
+ ],
+ [
+  "C1",
+  "100nF 0402 X7R",
+  "Capacitor_SMD:C_0402_1005Metric",
+  62.8625,
+  15.625,
+  0,
+  "bottom"
+ ],
+ [
+  "C2",
+  "22uF 0805 X5R 6.3V",
+  "Capacitor_SMD:C_0805_2012Metric",
+  58.0,
+  19.6,
+  0,
+  "bottom"
+ ],
+ [
+  "Q1",
+  "AO3401A P-MOSFET",
+  "Package_TO_SOT_SMD:SOT-23",
+  30.0,
+  36.0,
+  0,
+  "bottom"
+ ],
+ [
+  "SW1",
+  "Tactile 4.2x3.2 SMD",
+  "Button_Switch_SMD:SW_SPST_PTS810",
+  66.0,
+  19.0,
+  0,
+  "top"
+ ],
+ [
+  "SW2",
+  "Tactile 4.2x3.2 SMD",
+  "Button_Switch_SMD:SW_SPST_PTS810",
+  78.0,
+  19.0,
+  0,
+  "top"
+ ],
+ [
+  "BT1",
+  "CR2032 (card fork holder)",
+  "wizytowka:CR2032_PCB_FORK",
+  74.6,
+  42.5,
+  0,
+  "bottom"
+ ]
+]

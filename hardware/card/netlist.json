@@ -1,0 +1,1305 @@
+{
+ "BT1": {
+  "footprint": "wizytowka:CR2032_PCB_FORK",
+  "pins": {
+   "1": "+BATT",
+   "2": "GND"
+  },
+  "uuid": "e50aa821-ecf1-583a-92c0-d1eec8e72ccf",
+  "value": "CR2032"
+ },
+ "C1": {
+  "footprint": "Capacitor_SMD:C_0402_1005Metric",
+  "pins": {
+   "1": "VDD",
+   "2": "GND"
+  },
+  "uuid": "8add2b6a-647a-5c1b-a70f-6b7c2707bfc8",
+  "value": "100n"
+ },
+ "C2": {
+  "footprint": "Capacitor_SMD:C_0805_2012Metric",
+  "pins": {
+   "1": "VDD",
+   "2": "GND"
+  },
+  "uuid": "6bdd5e07-0185-51f3-9d9d-98616188b481",
+  "value": "22u"
+ },
+ "D1": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L9",
+   "2": "L8"
+  },
+  "uuid": "78561ef0-b5b0-5443-87ba-d9904f42794c",
+  "value": "LED_0603_YG"
+ },
+ "D10": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L1",
+   "2": "L0"
+  },
+  "uuid": "95a201fd-2957-5fd0-9e00-553c44713f36",
+  "value": "LED_0603_YG"
+ },
+ "D100": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L10",
+   "2": "L6"
+  },
+  "uuid": "b96ff105-89e2-522e-83ca-e5faad1f11b3",
+  "value": "LED_0603_YG"
+ },
+ "D101": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L11",
+   "2": "L6"
+  },
+  "uuid": "c71b07ef-b907-5e31-a0dc-4dfdb5386c53",
+  "value": "LED_0603_YG"
+ },
+ "D102": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L6",
+   "2": "L8"
+  },
+  "uuid": "0eb83a29-7993-58d7-b0a9-84d27a0d1af4",
+  "value": "LED_0603_YG"
+ },
+ "D103": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L6",
+   "2": "L9"
+  },
+  "uuid": "458618e2-1d3c-5746-a5f1-f7c4b1034c32",
+  "value": "LED_0603_YG"
+ },
+ "D104": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L6",
+   "2": "L10"
+  },
+  "uuid": "686598c5-8bb6-5811-8b9a-118eeaf22645",
+  "value": "LED_0603_YG"
+ },
+ "D105": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L6",
+   "2": "L11"
+  },
+  "uuid": "bcf80511-bc9c-5f30-9ca6-7d7ae02a297f",
+  "value": "LED_0603_YG"
+ },
+ "D106": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L0",
+   "2": "L6"
+  },
+  "uuid": "fdb1da07-83a7-59f7-9f5d-4a2ae8f09fd0",
+  "value": "LED_0603_YG"
+ },
+ "D107": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L1",
+   "2": "L6"
+  },
+  "uuid": "e434ac74-33f1-5108-b7ae-f6c1311f3979",
+  "value": "LED_0603_YG"
+ },
+ "D108": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L2",
+   "2": "L6"
+  },
+  "uuid": "2c02cf43-22b3-5977-9ef0-d92f772339c3",
+  "value": "LED_0603_YG"
+ },
+ "D109": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L3",
+   "2": "L6"
+  },
+  "uuid": "d046856e-5168-5ed3-9b84-8b4da5bd1132",
+  "value": "LED_0603_YG"
+ },
+ "D11": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L2",
+   "2": "L0"
+  },
+  "uuid": "8e489dae-f4ef-5409-a529-1a95d8ffde7e",
+  "value": "LED_0603_YG"
+ },
+ "D110": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L4",
+   "2": "L6"
+  },
+  "uuid": "b92ca6e6-f9d8-502e-9ddb-1991a7d1425a",
+  "value": "LED_0603_YG"
+ },
+ "D111": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L5",
+   "2": "L6"
+  },
+  "uuid": "7ed01f08-8df4-5c15-ac15-a34e50c4a390",
+  "value": "LED_0603_YG"
+ },
+ "D112": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L7",
+   "2": "L6"
+  },
+  "uuid": "88002e9e-4c85-58f1-b9aa-c584298965cd",
+  "value": "LED_0603_YG"
+ },
+ "D113": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L11",
+   "2": "L8"
+  },
+  "uuid": "03dba0a4-1901-57c6-8fbb-4523f0b82670",
+  "value": "LED_0603_YG"
+ },
+ "D114": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L8",
+   "2": "L7"
+  },
+  "uuid": "04ef3f76-dd80-57ca-a7af-197d540f0664",
+  "value": "LED_0603_YG"
+ },
+ "D115": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L9",
+   "2": "L7"
+  },
+  "uuid": "1215a9b7-efe1-5984-aea3-43f9fd2e8eb5",
+  "value": "LED_0603_YG"
+ },
+ "D116": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L10",
+   "2": "L7"
+  },
+  "uuid": "2a5bc626-7bbc-56f6-ade5-f4e276c26e3a",
+  "value": "LED_0603_YG"
+ },
+ "D117": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L11",
+   "2": "L7"
+  },
+  "uuid": "2e7b5364-b478-51f6-b4e4-e1e57c63116a",
+  "value": "LED_0603_YG"
+ },
+ "D118": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L7",
+   "2": "L8"
+  },
+  "uuid": "8463cd67-af10-525e-9212-c57abc577ffd",
+  "value": "LED_0603_YG"
+ },
+ "D119": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L7",
+   "2": "L9"
+  },
+  "uuid": "fefbe825-8cd2-53b5-89bb-489d52c38d54",
+  "value": "LED_0603_YG"
+ },
+ "D12": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L3",
+   "2": "L0"
+  },
+  "uuid": "98596a0f-c962-5d8e-8715-ebab432bfa87",
+  "value": "LED_0603_YG"
+ },
+ "D120": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L7",
+   "2": "L10"
+  },
+  "uuid": "30372400-3d65-5f98-abae-21c3cfc5c067",
+  "value": "LED_0603_YG"
+ },
+ "D121": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L7",
+   "2": "L11"
+  },
+  "uuid": "0987e4f4-8d26-5091-adcf-e54424039224",
+  "value": "LED_0603_YG"
+ },
+ "D122": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L0",
+   "2": "L7"
+  },
+  "uuid": "bd7cea3f-7404-5e27-bdc8-45c7d762af23",
+  "value": "LED_0603_YG"
+ },
+ "D123": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L1",
+   "2": "L7"
+  },
+  "uuid": "07511d79-395f-53c5-8b6e-4f0189018154",
+  "value": "LED_0603_YG"
+ },
+ "D124": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L2",
+   "2": "L7"
+  },
+  "uuid": "32f10556-f872-5e1d-9639-83aa7e69c523",
+  "value": "LED_0603_YG"
+ },
+ "D125": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L3",
+   "2": "L7"
+  },
+  "uuid": "a9f9945a-11ee-56b1-8f88-d533a54e13ff",
+  "value": "LED_0603_YG"
+ },
+ "D126": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L4",
+   "2": "L7"
+  },
+  "uuid": "0c626203-e0da-5d83-bbdf-c2c7f2bf8c6e",
+  "value": "LED_0603_YG"
+ },
+ "D127": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L5",
+   "2": "L7"
+  },
+  "uuid": "0866b34a-3514-5dd2-b945-16a733747927",
+  "value": "LED_0603_YG"
+ },
+ "D128": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L6",
+   "2": "L7"
+  },
+  "uuid": "501f0508-79c5-5e0d-bc99-5633781140c6",
+  "value": "LED_0603_YG"
+ },
+ "D13": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L4",
+   "2": "L0"
+  },
+  "uuid": "06430dcd-41cb-5db3-ae55-5d970f888ca8",
+  "value": "LED_0603_YG"
+ },
+ "D14": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L5",
+   "2": "L0"
+  },
+  "uuid": "795bc634-04aa-57f2-a6eb-ab0d22c3599c",
+  "value": "LED_0603_YG"
+ },
+ "D15": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L6",
+   "2": "L0"
+  },
+  "uuid": "ef972bd5-6a56-52e8-a664-ed305b1cab56",
+  "value": "LED_0603_YG"
+ },
+ "D16": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L7",
+   "2": "L0"
+  },
+  "uuid": "3aad82d2-2942-5565-afbc-31fcef8c519a",
+  "value": "LED_0603_YG"
+ },
+ "D17": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L10",
+   "2": "L9"
+  },
+  "uuid": "7c68c8c4-8264-5a01-87be-09fba0b9f62e",
+  "value": "LED_0603_YG"
+ },
+ "D18": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L8",
+   "2": "L1"
+  },
+  "uuid": "b7a07607-a5a6-5b28-81ed-c6b18b99cc2a",
+  "value": "LED_0603_YG"
+ },
+ "D19": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L9",
+   "2": "L1"
+  },
+  "uuid": "a90cfde5-9148-5f4a-b70f-9a15b525f167",
+  "value": "LED_0603_YG"
+ },
+ "D2": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L8",
+   "2": "L0"
+  },
+  "uuid": "220970d6-1e3a-56d1-b52d-7aa748a6e252",
+  "value": "LED_0603_YG"
+ },
+ "D20": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L10",
+   "2": "L1"
+  },
+  "uuid": "5a936cfd-86c4-5312-8aac-1d4a98216162",
+  "value": "LED_0603_YG"
+ },
+ "D21": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L11",
+   "2": "L1"
+  },
+  "uuid": "4c40bd3d-247a-5f3e-a0e5-b46742911e45",
+  "value": "LED_0603_YG"
+ },
+ "D22": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L1",
+   "2": "L8"
+  },
+  "uuid": "f9c17224-dba9-5f15-9090-9fe5a23675e4",
+  "value": "LED_0603_YG"
+ },
+ "D23": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L1",
+   "2": "L9"
+  },
+  "uuid": "51cec921-5d9e-50e6-884d-6a7fa9ebc192",
+  "value": "LED_0603_YG"
+ },
+ "D24": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L1",
+   "2": "L10"
+  },
+  "uuid": "f54c591c-eb9a-52eb-ba2d-bd819370eb8c",
+  "value": "LED_0603_YG"
+ },
+ "D25": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L1",
+   "2": "L11"
+  },
+  "uuid": "bbcc481e-cd90-5263-b666-f91f8950da8a",
+  "value": "LED_0603_YG"
+ },
+ "D26": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L0",
+   "2": "L1"
+  },
+  "uuid": "d07585ae-8ffd-510b-8d1e-b186dbde27bc",
+  "value": "LED_0603_YG"
+ },
+ "D27": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L2",
+   "2": "L1"
+  },
+  "uuid": "53570560-1060-55b4-ab72-b73d88f2395e",
+  "value": "LED_0603_YG"
+ },
+ "D28": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L3",
+   "2": "L1"
+  },
+  "uuid": "dbc3e98b-1942-53c8-b96a-d756853a17aa",
+  "value": "LED_0603_YG"
+ },
+ "D29": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L4",
+   "2": "L1"
+  },
+  "uuid": "8e090f7b-51fb-5b77-ae30-9b227878c582",
+  "value": "LED_0603_YG"
+ },
+ "D3": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L9",
+   "2": "L0"
+  },
+  "uuid": "0225a20b-0f9b-5af5-88c7-0d65690efb5b",
+  "value": "LED_0603_YG"
+ },
+ "D30": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L5",
+   "2": "L1"
+  },
+  "uuid": "5929084d-b342-57df-98db-dcb4d61e4bec",
+  "value": "LED_0603_YG"
+ },
+ "D31": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L6",
+   "2": "L1"
+  },
+  "uuid": "ff270c03-a4ce-58f7-bf7c-c6097f632302",
+  "value": "LED_0603_YG"
+ },
+ "D32": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L7",
+   "2": "L1"
+  },
+  "uuid": "684cd14d-dee4-5449-a562-e3dc99e39c46",
+  "value": "LED_0603_YG"
+ },
+ "D33": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L11",
+   "2": "L10"
+  },
+  "uuid": "0de184e1-f041-573e-8414-00e07262181a",
+  "value": "LED_0603_YG"
+ },
+ "D34": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L8",
+   "2": "L2"
+  },
+  "uuid": "7e380d6f-2625-512a-b2bd-b319740f421b",
+  "value": "LED_0603_YG"
+ },
+ "D35": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L9",
+   "2": "L2"
+  },
+  "uuid": "88e11d7c-7c32-5476-9d49-902c27de0d92",
+  "value": "LED_0603_YG"
+ },
+ "D36": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L10",
+   "2": "L2"
+  },
+  "uuid": "70661d9e-7c36-5c69-a197-33de8ceb0e19",
+  "value": "LED_0603_YG"
+ },
+ "D37": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L11",
+   "2": "L2"
+  },
+  "uuid": "16bc5bed-91ec-54c8-941a-3036f972826f",
+  "value": "LED_0603_YG"
+ },
+ "D38": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L2",
+   "2": "L8"
+  },
+  "uuid": "6ec43032-ec70-5a24-bc9e-44e7c4abf967",
+  "value": "LED_0603_YG"
+ },
+ "D39": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L2",
+   "2": "L9"
+  },
+  "uuid": "734d2871-351e-5bfa-bbd3-ee64e6f9be12",
+  "value": "LED_0603_YG"
+ },
+ "D4": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L10",
+   "2": "L0"
+  },
+  "uuid": "2121cb9f-144d-5374-b04c-72d348cefce5",
+  "value": "LED_0603_YG"
+ },
+ "D40": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L2",
+   "2": "L10"
+  },
+  "uuid": "4bca010e-45e5-52c0-8fe7-4c7eecd4efba",
+  "value": "LED_0603_YG"
+ },
+ "D41": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L2",
+   "2": "L11"
+  },
+  "uuid": "5239260e-daea-550a-8314-2e4a91d5498f",
+  "value": "LED_0603_YG"
+ },
+ "D42": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L0",
+   "2": "L2"
+  },
+  "uuid": "f81cbbc3-870b-580a-b875-14caa71b5576",
+  "value": "LED_0603_YG"
+ },
+ "D43": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L1",
+   "2": "L2"
+  },
+  "uuid": "b2290bdf-5316-54f5-8cbd-864212c21249",
+  "value": "LED_0603_YG"
+ },
+ "D44": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L3",
+   "2": "L2"
+  },
+  "uuid": "555b3319-409e-5592-8d52-383d0ae87677",
+  "value": "LED_0603_YG"
+ },
+ "D45": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L4",
+   "2": "L2"
+  },
+  "uuid": "8c6abd7c-c809-502e-992e-bf97e9e1e021",
+  "value": "LED_0603_YG"
+ },
+ "D46": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L5",
+   "2": "L2"
+  },
+  "uuid": "6ab1899f-7593-5cd4-8d59-cc2f73c0eca6",
+  "value": "LED_0603_YG"
+ },
+ "D47": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L6",
+   "2": "L2"
+  },
+  "uuid": "a894b672-9865-59fa-ba65-20c348b97681",
+  "value": "LED_0603_YG"
+ },
+ "D48": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L7",
+   "2": "L2"
+  },
+  "uuid": "a58b1b9d-63d5-5392-941e-0146d9902ab0",
+  "value": "LED_0603_YG"
+ },
+ "D49": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L8",
+   "2": "L11"
+  },
+  "uuid": "2a8c75c3-da3f-55d6-8266-733b576c12ae",
+  "value": "LED_0603_YG"
+ },
+ "D5": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L11",
+   "2": "L0"
+  },
+  "uuid": "41437176-1a11-59ac-bbcb-aefb4336d4ca",
+  "value": "LED_0603_YG"
+ },
+ "D50": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L8",
+   "2": "L3"
+  },
+  "uuid": "49af5fa4-d0da-5a28-8d59-d6af36827b62",
+  "value": "LED_0603_YG"
+ },
+ "D51": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L9",
+   "2": "L3"
+  },
+  "uuid": "94b9ef8e-0ce5-52d5-8ed1-5cb6c158ffef",
+  "value": "LED_0603_YG"
+ },
+ "D52": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L10",
+   "2": "L3"
+  },
+  "uuid": "7c07e50c-0089-54cc-9932-333178d584ad",
+  "value": "LED_0603_YG"
+ },
+ "D53": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L11",
+   "2": "L3"
+  },
+  "uuid": "d615162f-3121-5919-b16f-d45a7094104b",
+  "value": "LED_0603_YG"
+ },
+ "D54": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L3",
+   "2": "L8"
+  },
+  "uuid": "44a41605-1895-5d57-8f9c-73faa9454309",
+  "value": "LED_0603_YG"
+ },
+ "D55": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L3",
+   "2": "L9"
+  },
+  "uuid": "6f297542-5507-51d6-9741-1f994df85404",
+  "value": "LED_0603_YG"
+ },
+ "D56": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L3",
+   "2": "L10"
+  },
+  "uuid": "bfac21ea-3e42-583d-8e34-7d5ce7a75dc8",
+  "value": "LED_0603_YG"
+ },
+ "D57": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L3",
+   "2": "L11"
+  },
+  "uuid": "b42e4085-723f-541d-95d0-a170345a4b98",
+  "value": "LED_0603_YG"
+ },
+ "D58": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L0",
+   "2": "L3"
+  },
+  "uuid": "3ade1b0d-31e2-51ed-9221-f279017e072c",
+  "value": "LED_0603_YG"
+ },
+ "D59": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L1",
+   "2": "L3"
+  },
+  "uuid": "d12d1241-3865-58f3-a073-c2d765207ba5",
+  "value": "LED_0603_YG"
+ },
+ "D6": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L0",
+   "2": "L8"
+  },
+  "uuid": "3664f73b-7c0e-5087-880a-5a5b2f60a0e3",
+  "value": "LED_0603_YG"
+ },
+ "D60": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L2",
+   "2": "L3"
+  },
+  "uuid": "f8c0dedc-3fc4-5c27-889e-fb61620a9b16",
+  "value": "LED_0603_YG"
+ },
+ "D61": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L4",
+   "2": "L3"
+  },
+  "uuid": "e642cd88-439b-568b-89de-3c19c9a1e0b0",
+  "value": "LED_0603_YG"
+ },
+ "D62": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L5",
+   "2": "L3"
+  },
+  "uuid": "2e0071f0-f29d-5860-aaa3-72fe91d91aab",
+  "value": "LED_0603_YG"
+ },
+ "D63": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L6",
+   "2": "L3"
+  },
+  "uuid": "17d87f62-6b0f-5ea3-be59-9fa1db9faedd",
+  "value": "LED_0603_YG"
+ },
+ "D64": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L7",
+   "2": "L3"
+  },
+  "uuid": "6b249f19-a03f-512c-a546-01dfe27f6288",
+  "value": "LED_0603_YG"
+ },
+ "D65": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L8",
+   "2": "L9"
+  },
+  "uuid": "e4dd90c0-b39b-5ab0-9a4f-49fff7721a8a",
+  "value": "LED_0603_YG"
+ },
+ "D66": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L8",
+   "2": "L4"
+  },
+  "uuid": "e487c0f6-1fb5-57ff-b906-e7f4a21d1eba",
+  "value": "LED_0603_YG"
+ },
+ "D67": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L9",
+   "2": "L4"
+  },
+  "uuid": "37b131cf-45d4-5b45-864e-46b50bb6522b",
+  "value": "LED_0603_YG"
+ },
+ "D68": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L10",
+   "2": "L4"
+  },
+  "uuid": "6bee6a35-09c5-5d3c-9914-a6a7c7c75206",
+  "value": "LED_0603_YG"
+ },
+ "D69": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L11",
+   "2": "L4"
+  },
+  "uuid": "dccf58b8-22f8-5e61-855e-f2717c864d31",
+  "value": "LED_0603_YG"
+ },
+ "D7": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L0",
+   "2": "L9"
+  },
+  "uuid": "d24ca503-52b8-55fa-b835-9c8c2b03b2bf",
+  "value": "LED_0603_YG"
+ },
+ "D70": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L4",
+   "2": "L8"
+  },
+  "uuid": "7aac5fcf-1717-581d-b241-9aae6ce8980b",
+  "value": "LED_0603_YG"
+ },
+ "D71": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L4",
+   "2": "L9"
+  },
+  "uuid": "3d5da1a7-9f83-5e77-8ac0-5003e682c88e",
+  "value": "LED_0603_YG"
+ },
+ "D72": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L4",
+   "2": "L10"
+  },
+  "uuid": "b3c053d9-36ac-51c3-8b95-a808eec82e6b",
+  "value": "LED_0603_YG"
+ },
+ "D73": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L4",
+   "2": "L11"
+  },
+  "uuid": "074ad912-34c0-5a8a-8be7-aa8aaeabffdf",
+  "value": "LED_0603_YG"
+ },
+ "D74": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L0",
+   "2": "L4"
+  },
+  "uuid": "7309617d-ffa2-5709-bedf-260d5ab9c681",
+  "value": "LED_0603_YG"
+ },
+ "D75": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L1",
+   "2": "L4"
+  },
+  "uuid": "e3d860f7-a180-5b02-8c69-3592ddb20749",
+  "value": "LED_0603_YG"
+ },
+ "D76": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L2",
+   "2": "L4"
+  },
+  "uuid": "98545c17-8f4a-59e9-bc4a-0bd9f7e9efeb",
+  "value": "LED_0603_YG"
+ },
+ "D77": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L3",
+   "2": "L4"
+  },
+  "uuid": "8f920d60-0521-54fc-9a6f-a811fb75b7a8",
+  "value": "LED_0603_YG"
+ },
+ "D78": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L5",
+   "2": "L4"
+  },
+  "uuid": "a84ff7b1-d608-5b28-8982-f5d8d30c5fd5",
+  "value": "LED_0603_YG"
+ },
+ "D79": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L6",
+   "2": "L4"
+  },
+  "uuid": "da3d8a8a-1a3e-5420-b023-45ea76c2e0fe",
+  "value": "LED_0603_YG"
+ },
+ "D8": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L0",
+   "2": "L10"
+  },
+  "uuid": "d393abc5-396a-5fec-b5f1-fccbe54eb927",
+  "value": "LED_0603_YG"
+ },
+ "D80": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L7",
+   "2": "L4"
+  },
+  "uuid": "53d7a8fe-82b7-59e8-bee0-ff83ca4011bc",
+  "value": "LED_0603_YG"
+ },
+ "D81": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L9",
+   "2": "L10"
+  },
+  "uuid": "4bb99508-6534-5644-88c8-8aa784870b50",
+  "value": "LED_0603_YG"
+ },
+ "D82": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L8",
+   "2": "L5"
+  },
+  "uuid": "450ef7cd-0d11-5c08-8e75-c781cf2ada3d",
+  "value": "LED_0603_YG"
+ },
+ "D83": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L9",
+   "2": "L5"
+  },
+  "uuid": "e95c6d81-16a8-5afd-a080-58ba857e8425",
+  "value": "LED_0603_YG"
+ },
+ "D84": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L10",
+   "2": "L5"
+  },
+  "uuid": "6a56bef0-b5c1-54ff-9733-311929b02d03",
+  "value": "LED_0603_YG"
+ },
+ "D85": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L11",
+   "2": "L5"
+  },
+  "uuid": "3bc5815e-7305-5c10-bf0b-9bc05f9cb5f6",
+  "value": "LED_0603_YG"
+ },
+ "D86": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L5",
+   "2": "L8"
+  },
+  "uuid": "7a9dee49-9e5c-546d-aee2-e784d825e1e8",
+  "value": "LED_0603_YG"
+ },
+ "D87": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L5",
+   "2": "L9"
+  },
+  "uuid": "7a93073f-30ee-5ab7-b1f9-6585200c6194",
+  "value": "LED_0603_YG"
+ },
+ "D88": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L5",
+   "2": "L10"
+  },
+  "uuid": "a1af97db-9d4b-5224-a091-131c0855690d",
+  "value": "LED_0603_YG"
+ },
+ "D89": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L5",
+   "2": "L11"
+  },
+  "uuid": "c47e4514-a2eb-5a62-99c6-7c0f762f74bc",
+  "value": "LED_0603_YG"
+ },
+ "D9": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L0",
+   "2": "L11"
+  },
+  "uuid": "d12b6b7c-f8af-5a3e-bdd3-026ad17770c2",
+  "value": "LED_0603_YG"
+ },
+ "D90": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L0",
+   "2": "L5"
+  },
+  "uuid": "2184188d-c093-5688-9f3c-227f2d2d330b",
+  "value": "LED_0603_YG"
+ },
+ "D91": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L1",
+   "2": "L5"
+  },
+  "uuid": "bc0ccce4-016c-5b1f-acf8-4cda018b0165",
+  "value": "LED_0603_YG"
+ },
+ "D92": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L2",
+   "2": "L5"
+  },
+  "uuid": "8c3ce115-42bc-5873-bf5c-6b386341d9a8",
+  "value": "LED_0603_YG"
+ },
+ "D93": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L3",
+   "2": "L5"
+  },
+  "uuid": "c149cb22-415e-58b5-b70c-5ee2574640f5",
+  "value": "LED_0603_YG"
+ },
+ "D94": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L4",
+   "2": "L5"
+  },
+  "uuid": "892d53dd-9096-58fe-a115-49aef5a46dca",
+  "value": "LED_0603_YG"
+ },
+ "D95": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L6",
+   "2": "L5"
+  },
+  "uuid": "d6b7c71f-1195-5042-b0ea-4b11a25c4a24",
+  "value": "LED_0603_YG"
+ },
+ "D96": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L7",
+   "2": "L5"
+  },
+  "uuid": "7adc07d7-9b1a-5b9f-978a-2f46d1306117",
+  "value": "LED_0603_YG"
+ },
+ "D97": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L10",
+   "2": "L11"
+  },
+  "uuid": "26910634-2892-5007-935c-b41bc69ec1c8",
+  "value": "LED_0603_YG"
+ },
+ "D98": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L8",
+   "2": "L6"
+  },
+  "uuid": "9c707203-cd96-5bd8-aba7-e5acd0059fa8",
+  "value": "LED_0603_YG"
+ },
+ "D99": {
+  "footprint": "wizytowka:LED_0603_1608Metric_NoSilk",
+  "pins": {
+   "1": "L9",
+   "2": "L6"
+  },
+  "uuid": "32907c84-6700-5012-8723-fdaa60469dd1",
+  "value": "LED_0603_YG"
+ },
+ "Q1": {
+  "footprint": "Package_TO_SOT_SMD:SOT-23",
+  "pins": {
+   "1": "GND",
+   "2": "VDD",
+   "3": "+BATT"
+  },
+  "uuid": "3877f1da-346f-582a-88a0-1271f53068bd",
+  "value": "AO3401A"
+ },
+ "RN1": {
+  "footprint": "Resistor_SMD:R_Array_Convex_4x0402",
+  "pins": {
+   "1": "L0_MCU",
+   "2": "L1_MCU",
+   "3": "L2_MCU",
+   "4": "L3_MCU",
+   "5": "L3",
+   "6": "L2",
+   "7": "L1",
+   "8": "L0"
+  },
+  "uuid": "18b96c92-4687-54b0-a795-5e36b46dbb14",
+  "value": "4x33R"
+ },
+ "RN2": {
+  "footprint": "Resistor_SMD:R_Array_Convex_4x0402",
+  "pins": {
+   "1": "L4_MCU",
+   "2": "L5_MCU",
+   "3": "L6_MCU",
+   "4": "L7_MCU",
+   "5": "L7",
+   "6": "L6",
+   "7": "L5",
+   "8": "L4"
+  },
+  "uuid": "3d8cfd9a-0490-5ead-a379-ff2900b3bc97",
+  "value": "4x33R"
+ },
+ "RN3": {
+  "footprint": "Resistor_SMD:R_Array_Convex_4x0402",
+  "pins": {
+   "1": "L8_MCU",
+   "2": "L9_MCU",
+   "3": "L10_MCU",
+   "4": "L11_MCU",
+   "5": "L11",
+   "6": "L10",
+   "7": "L9",
+   "8": "L8"
+  },
+  "uuid": "3599c09a-cfab-5723-8ef5-1c8b43a0fb74",
+  "value": "4x33R"
+ },
+ "SW1": {
+  "footprint": "Button_Switch_SMD:SW_SPST_PTS810",
+  "pins": {
+   "1": "BTN_A",
+   "2": "GND"
+  },
+  "uuid": "a789eab0-d4e3-504a-83b4-2f923768b584",
+  "value": "PTS810"
+ },
+ "SW2": {
+  "footprint": "Button_Switch_SMD:SW_SPST_PTS810",
+  "pins": {
+   "1": "BTN_B",
+   "2": "GND"
+  },
+  "uuid": "98fe572e-9285-583f-b7e8-54b2a9e5e403",
+  "value": "PTS810"
+ },
+ "TP1": {
+  "footprint": "TestPoint:TestPoint_Pad_D1.5mm",
+  "pins": {
+   "1": "VDD"
+  },
+  "uuid": "745c4f57-48f8-5cce-9280-d82c211c0b18",
+  "value": "3V3"
+ },
+ "TP2": {
+  "footprint": "TestPoint:TestPoint_Pad_D1.5mm",
+  "pins": {
+   "1": "SWIO"
+  },
+  "uuid": "4d1a528f-93dc-51eb-88c6-4702b06f14a6",
+  "value": "SWIO"
+ },
+ "TP3": {
+  "footprint": "TestPoint:TestPoint_Pad_D1.5mm",
+  "pins": {
+   "1": "GND"
+  },
+  "uuid": "a663b4b0-ca26-56a2-bddc-8af904092b60",
+  "value": "GND"
+ },
+ "U1": {
+  "footprint": "Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm",
+  "pins": {
+   "1": "L2_MCU",
+   "10": "unconnected-(U1-PC0-Pad10)",
+   "11": "L11_MCU",
+   "12": "L10_MCU",
+   "13": "L9_MCU",
+   "14": "L8_MCU",
+   "15": "L7_MCU",
+   "16": "L6_MCU",
+   "17": "L5_MCU",
+   "18": "SWIO",
+   "19": "L4_MCU",
+   "2": "L1_MCU",
+   "20": "L3_MCU",
+   "3": "L0_MCU",
+   "4": "unconnected-(U1-PD7-Pad4)",
+   "5": "BTN_A",
+   "6": "BTN_B",
+   "7": "GND",
+   "8": "unconnected-(U1-PD0-Pad8)",
+   "9": "VDD"
+  },
+  "uuid": "cc427bf9-38ac-5667-9d57-55f3825fe091",
+  "value": "CH32V003F4P6"
+ }
+}

@@ -1,0 +1,10 @@
+# KiCad local/user state
+*.kicad_prl
+*-backups/
+fp-info-cache
+_autosave-*
+*.lck
+# intermediate gerber folders (zips are kept)
+fab/*/gerber/
+# python
+__pycache__/

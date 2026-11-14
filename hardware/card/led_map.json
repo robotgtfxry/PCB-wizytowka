@@ -1,0 +1,898 @@
+[
+ {
+  "ref": "D1",
+  "col": 0,
+  "row": 0,
+  "anode": "L8",
+  "cathode": "L9"
+ },
+ {
+  "ref": "D2",
+  "col": 1,
+  "row": 0,
+  "anode": "L0",
+  "cathode": "L8"
+ },
+ {
+  "ref": "D3",
+  "col": 2,
+  "row": 0,
+  "anode": "L0",
+  "cathode": "L9"
+ },
+ {
+  "ref": "D4",
+  "col": 3,
+  "row": 0,
+  "anode": "L0",
+  "cathode": "L10"
+ },
+ {
+  "ref": "D5",
+  "col": 4,
+  "row": 0,
+  "anode": "L0",
+  "cathode": "L11"
+ },
+ {
+  "ref": "D6",
+  "col": 5,
+  "row": 0,
+  "anode": "L8",
+  "cathode": "L0"
+ },
+ {
+  "ref": "D7",
+  "col": 6,
+  "row": 0,
+  "anode": "L9",
+  "cathode": "L0"
+ },
+ {
+  "ref": "D8",
+  "col": 7,
+  "row": 0,
+  "anode": "L10",
+  "cathode": "L0"
+ },
+ {
+  "ref": "D9",
+  "col": 8,
+  "row": 0,
+  "anode": "L11",
+  "cathode": "L0"
+ },
+ {
+  "ref": "D10",
+  "col": 9,
+  "row": 0,
+  "anode": "L0",
+  "cathode": "L1"
+ },
+ {
+  "ref": "D11",
+  "col": 10,
+  "row": 0,
+  "anode": "L0",
+  "cathode": "L2"
+ },
+ {
+  "ref": "D12",
+  "col": 11,
+  "row": 0,
+  "anode": "L0",
+  "cathode": "L3"
+ },
+ {
+  "ref": "D13",
+  "col": 12,
+  "row": 0,
+  "anode": "L0",
+  "cathode": "L4"
+ },
+ {
+  "ref": "D14",
+  "col": 13,
+  "row": 0,
+  "anode": "L0",
+  "cathode": "L5"
+ },
+ {
+  "ref": "D15",
+  "col": 14,
+  "row": 0,
+  "anode": "L0",
+  "cathode": "L6"
+ },
+ {
+  "ref": "D16",
+  "col": 15,
+  "row": 0,
+  "anode": "L0",
+  "cathode": "L7"
+ },
+ {
+  "ref": "D17",
+  "col": 0,
+  "row": 1,
+  "anode": "L9",
+  "cathode": "L10"
+ },
+ {
+  "ref": "D18",
+  "col": 1,
+  "row": 1,
+  "anode": "L1",
+  "cathode": "L8"
+ },
+ {
+  "ref": "D19",
+  "col": 2,
+  "row": 1,
+  "anode": "L1",
+  "cathode": "L9"
+ },
+ {
+  "ref": "D20",
+  "col": 3,
+  "row": 1,
+  "anode": "L1",
+  "cathode": "L10"
+ },
+ {
+  "ref": "D21",
+  "col": 4,
+  "row": 1,
+  "anode": "L1",
+  "cathode": "L11"
+ },
+ {
+  "ref": "D22",
+  "col": 5,
+  "row": 1,
+  "anode": "L8",
+  "cathode": "L1"
+ },
+ {
+  "ref": "D23",
+  "col": 6,
+  "row": 1,
+  "anode": "L9",
+  "cathode": "L1"
+ },
+ {
+  "ref": "D24",
+  "col": 7,
+  "row": 1,
+  "anode": "L10",
+  "cathode": "L1"
+ },
+ {
+  "ref": "D25",
+  "col": 8,
+  "row": 1,
+  "anode": "L11",
+  "cathode": "L1"
+ },
+ {
+  "ref": "D26",
+  "col": 9,
+  "row": 1,
+  "anode": "L1",
+  "cathode": "L0"
+ },
+ {
+  "ref": "D27",
+  "col": 10,
+  "row": 1,
+  "anode": "L1",
+  "cathode": "L2"
+ },
+ {
+  "ref": "D28",
+  "col": 11,
+  "row": 1,
+  "anode": "L1",
+  "cathode": "L3"
+ },
+ {
+  "ref": "D29",
+  "col": 12,
+  "row": 1,
+  "anode": "L1",
+  "cathode": "L4"
+ },
+ {
+  "ref": "D30",
+  "col": 13,
+  "row": 1,
+  "anode": "L1",
+  "cathode": "L5"
+ },
+ {
+  "ref": "D31",
+  "col": 14,
+  "row": 1,
+  "anode": "L1",
+  "cathode": "L6"
+ },
+ {
+  "ref": "D32",
+  "col": 15,
+  "row": 1,
+  "anode": "L1",
+  "cathode": "L7"
+ },
+ {
+  "ref": "D33",
+  "col": 0,
+  "row": 2,
+  "anode": "L10",
+  "cathode": "L11"
+ },
+ {
+  "ref": "D34",
+  "col": 1,
+  "row": 2,
+  "anode": "L2",
+  "cathode": "L8"
+ },
+ {
+  "ref": "D35",
+  "col": 2,
+  "row": 2,
+  "anode": "L2",
+  "cathode": "L9"
+ },
+ {
+  "ref": "D36",
+  "col": 3,
+  "row": 2,
+  "anode": "L2",
+  "cathode": "L10"
+ },
+ {
+  "ref": "D37",
+  "col": 4,
+  "row": 2,
+  "anode": "L2",
+  "cathode": "L11"
+ },
+ {
+  "ref": "D38",
+  "col": 5,
+  "row": 2,
+  "anode": "L8",
+  "cathode": "L2"
+ },
+ {
+  "ref": "D39",
+  "col": 6,
+  "row": 2,
+  "anode": "L9",
+  "cathode": "L2"
+ },
+ {
+  "ref": "D40",
+  "col": 7,
+  "row": 2,
+  "anode": "L10",
+  "cathode": "L2"
+ },
+ {
+  "ref": "D41",
+  "col": 8,
+  "row": 2,
+  "anode": "L11",
+  "cathode": "L2"
+ },
+ {
+  "ref": "D42",
+  "col": 9,
+  "row": 2,
+  "anode": "L2",
+  "cathode": "L0"
+ },
+ {
+  "ref": "D43",
+  "col": 10,
+  "row": 2,
+  "anode": "L2",
+  "cathode": "L1"
+ },
+ {
+  "ref": "D44",
+  "col": 11,
+  "row": 2,
+  "anode": "L2",
+  "cathode": "L3"
+ },
+ {
+  "ref": "D45",
+  "col": 12,
+  "row": 2,
+  "anode": "L2",
+  "cathode": "L4"
+ },
+ {
+  "ref": "D46",
+  "col": 13,
+  "row": 2,
+  "anode": "L2",
+  "cathode": "L5"
+ },
+ {
+  "ref": "D47",
+  "col": 14,
+  "row": 2,
+  "anode": "L2",
+  "cathode": "L6"
+ },
+ {
+  "ref": "D48",
+  "col": 15,
+  "row": 2,
+  "anode": "L2",
+  "cathode": "L7"
+ },
+ {
+  "ref": "D49",
+  "col": 0,
+  "row": 3,
+  "anode": "L11",
+  "cathode": "L8"
+ },
+ {
+  "ref": "D50",
+  "col": 1,
+  "row": 3,
+  "anode": "L3",
+  "cathode": "L8"
+ },
+ {
+  "ref": "D51",
+  "col": 2,
+  "row": 3,
+  "anode": "L3",
+  "cathode": "L9"
+ },
+ {
+  "ref": "D52",
+  "col": 3,
+  "row": 3,
+  "anode": "L3",
+  "cathode": "L10"
+ },
+ {
+  "ref": "D53",
+  "col": 4,
+  "row": 3,
+  "anode": "L3",
+  "cathode": "L11"
+ },
+ {
+  "ref": "D54",
+  "col": 5,
+  "row": 3,
+  "anode": "L8",
+  "cathode": "L3"
+ },
+ {
+  "ref": "D55",
+  "col": 6,
+  "row": 3,
+  "anode": "L9",
+  "cathode": "L3"
+ },
+ {
+  "ref": "D56",
+  "col": 7,
+  "row": 3,
+  "anode": "L10",
+  "cathode": "L3"
+ },
+ {
+  "ref": "D57",
+  "col": 8,
+  "row": 3,
+  "anode": "L11",
+  "cathode": "L3"
+ },
+ {
+  "ref": "D58",
+  "col": 9,
+  "row": 3,
+  "anode": "L3",
+  "cathode": "L0"
+ },
+ {
+  "ref": "D59",
+  "col": 10,
+  "row": 3,
+  "anode": "L3",
+  "cathode": "L1"
+ },
+ {
+  "ref": "D60",
+  "col": 11,
+  "row": 3,
+  "anode": "L3",
+  "cathode": "L2"
+ },
+ {
+  "ref": "D61",
+  "col": 12,
+  "row": 3,
+  "anode": "L3",
+  "cathode": "L4"
+ },
+ {
+  "ref": "D62",
+  "col": 13,
+  "row": 3,
+  "anode": "L3",
+  "cathode": "L5"
+ },
+ {
+  "ref": "D63",
+  "col": 14,
+  "row": 3,
+  "anode": "L3",
+  "cathode": "L6"
+ },
+ {
+  "ref": "D64",
+  "col": 15,
+  "row": 3,
+  "anode": "L3",
+  "cathode": "L7"
+ },
+ {
+  "ref": "D65",
+  "col": 0,
+  "row": 4,
+  "anode": "L9",
+  "cathode": "L8"
+ },
+ {
+  "ref": "D66",
+  "col": 1,
+  "row": 4,
+  "anode": "L4",
+  "cathode": "L8"
+ },
+ {
+  "ref": "D67",
+  "col": 2,
+  "row": 4,
+  "anode": "L4",
+  "cathode": "L9"
+ },
+ {
+  "ref": "D68",
+  "col": 3,
+  "row": 4,
+  "anode": "L4",
+  "cathode": "L10"
+ },
+ {
+  "ref": "D69",
+  "col": 4,
+  "row": 4,
+  "anode": "L4",
+  "cathode": "L11"
+ },
+ {
+  "ref": "D70",
+  "col": 5,
+  "row": 4,
+  "anode": "L8",
+  "cathode": "L4"
+ },
+ {
+  "ref": "D71",
+  "col": 6,
+  "row": 4,
+  "anode": "L9",
+  "cathode": "L4"
+ },
+ {
+  "ref": "D72",
+  "col": 7,
+  "row": 4,
+  "anode": "L10",
+  "cathode": "L4"
+ },
+ {
+  "ref": "D73",
+  "col": 8,
+  "row": 4,
+  "anode": "L11",
+  "cathode": "L4"
+ },
+ {
+  "ref": "D74",
+  "col": 9,
+  "row": 4,
+  "anode": "L4",
+  "cathode": "L0"
+ },
+ {
+  "ref": "D75",
+  "col": 10,
+  "row": 4,
+  "anode": "L4",
+  "cathode": "L1"
+ },
+ {
+  "ref": "D76",
+  "col": 11,
+  "row": 4,
+  "anode": "L4",
+  "cathode": "L2"
+ },
+ {
+  "ref": "D77",
+  "col": 12,
+  "row": 4,
+  "anode": "L4",
+  "cathode": "L3"
+ },
+ {
+  "ref": "D78",
+  "col": 13,
+  "row": 4,
+  "anode": "L4",
+  "cathode": "L5"
+ },
+ {
+  "ref": "D79",
+  "col": 14,
+  "row": 4,
+  "anode": "L4",
+  "cathode": "L6"
+ },
+ {
+  "ref": "D80",
+  "col": 15,
+  "row": 4,
+  "anode": "L4",
+  "cathode": "L7"
+ },
+ {
+  "ref": "D81",
+  "col": 0,
+  "row": 5,
+  "anode": "L10",
+  "cathode": "L9"
+ },
+ {
+  "ref": "D82",
+  "col": 1,
+  "row": 5,
+  "anode": "L5",
+  "cathode": "L8"
+ },
+ {
+  "ref": "D83",
+  "col": 2,
+  "row": 5,
+  "anode": "L5",
+  "cathode": "L9"
+ },
+ {
+  "ref": "D84",
+  "col": 3,
+  "row": 5,
+  "anode": "L5",
+  "cathode": "L10"
+ },
+ {
+  "ref": "D85",
+  "col": 4,
+  "row": 5,
+  "anode": "L5",
+  "cathode": "L11"
+ },
+ {
+  "ref": "D86",
+  "col": 5,
+  "row": 5,
+  "anode": "L8",
+  "cathode": "L5"
+ },
+ {
+  "ref": "D87",
+  "col": 6,
+  "row": 5,
+  "anode": "L9",
+  "cathode": "L5"
+ },
+ {
+  "ref": "D88",
+  "col": 7,
+  "row": 5,
+  "anode": "L10",
+  "cathode": "L5"
+ },
+ {
+  "ref": "D89",
+  "col": 8,
+  "row": 5,
+  "anode": "L11",
+  "cathode": "L5"
+ },
+ {
+  "ref": "D90",
+  "col": 9,
+  "row": 5,
+  "anode": "L5",
+  "cathode": "L0"
+ },
+ {
+  "ref": "D91",
+  "col": 10,
+  "row": 5,
+  "anode": "L5",
+  "cathode": "L1"
+ },
+ {
+  "ref": "D92",
+  "col": 11,
+  "row": 5,
+  "anode": "L5",
+  "cathode": "L2"
+ },
+ {
+  "ref": "D93",
+  "col": 12,
+  "row": 5,
+  "anode": "L5",
+  "cathode": "L3"
+ },
+ {
+  "ref": "D94",
+  "col": 13,
+  "row": 5,
+  "anode": "L5",
+  "cathode": "L4"
+ },
+ {
+  "ref": "D95",
+  "col": 14,
+  "row": 5,
+  "anode": "L5",
+  "cathode": "L6"
+ },
+ {
+  "ref": "D96",
+  "col": 15,
+  "row": 5,
+  "anode": "L5",
+  "cathode": "L7"
+ },
+ {
+  "ref": "D97",
+  "col": 0,
+  "row": 6,
+  "anode": "L11",
+  "cathode": "L10"
+ },
+ {
+  "ref": "D98",
+  "col": 1,
+  "row": 6,
+  "anode": "L6",
+  "cathode": "L8"
+ },
+ {
+  "ref": "D99",
+  "col": 2,
+  "row": 6,
+  "anode": "L6",
+  "cathode": "L9"
+ },
+ {
+  "ref": "D100",
+  "col": 3,
+  "row": 6,
+  "anode": "L6",
+  "cathode": "L10"
+ },
+ {
+  "ref": "D101",
+  "col": 4,
+  "row": 6,
+  "anode": "L6",
+  "cathode": "L11"
+ },
+ {
+  "ref": "D102",
+  "col": 5,
+  "row": 6,
+  "anode": "L8",
+  "cathode": "L6"
+ },
+ {
+  "ref": "D103",
+  "col": 6,
+  "row": 6,
+  "anode": "L9",
+  "cathode": "L6"
+ },
+ {
+  "ref": "D104",
+  "col": 7,
+  "row": 6,
+  "anode": "L10",
+  "cathode": "L6"
+ },
+ {
+  "ref": "D105",
+  "col": 8,
+  "row": 6,
+  "anode": "L11",
+  "cathode": "L6"
+ },
+ {
+  "ref": "D106",
+  "col": 9,
+  "row": 6,
+  "anode": "L6",
+  "cathode": "L0"
+ },
+ {
+  "ref": "D107",
+  "col": 10,
+  "row": 6,
+  "anode": "L6",
+  "cathode": "L1"
+ },
+ {
+  "ref": "D108",
+  "col": 11,
+  "row": 6,
+  "anode": "L6",
+  "cathode": "L2"
+ },
+ {
+  "ref": "D109",
+  "col": 12,
+  "row": 6,
+  "anode": "L6",
+  "cathode": "L3"
+ },
+ {
+  "ref": "D110",
+  "col": 13,
+  "row": 6,
+  "anode": "L6",
+  "cathode": "L4"
+ },
+ {
+  "ref": "D111",
+  "col": 14,
+  "row": 6,
+  "anode": "L6",
+  "cathode": "L5"
+ },
+ {
+  "ref": "D112",
+  "col": 15,
+  "row": 6,
+  "anode": "L6",
+  "cathode": "L7"
+ },
+ {
+  "ref": "D113",
+  "col": 0,
+  "row": 7,
+  "anode": "L8",
+  "cathode": "L11"
+ },
+ {
+  "ref": "D114",
+  "col": 1,
+  "row": 7,
+  "anode": "L7",
+  "cathode": "L8"
+ },
+ {
+  "ref": "D115",
+  "col": 2,
+  "row": 7,
+  "anode": "L7",
+  "cathode": "L9"
+ },
+ {
+  "ref": "D116",
+  "col": 3,
+  "row": 7,
+  "anode": "L7",
+  "cathode": "L10"
+ },
+ {
+  "ref": "D117",
+  "col": 4,
+  "row": 7,
+  "anode": "L7",
+  "cathode": "L11"
+ },
+ {
+  "ref": "D118",
+  "col": 5,
+  "row": 7,
+  "anode": "L8",
+  "cathode": "L7"
+ },
+ {
+  "ref": "D119",
+  "col": 6,
+  "row": 7,
+  "anode": "L9",
+  "cathode": "L7"
+ },
+ {
+  "ref": "D120",
+  "col": 7,
+  "row": 7,
+  "anode": "L10",
+  "cathode": "L7"
+ },
+ {
+  "ref": "D121",
+  "col": 8,
+  "row": 7,
+  "anode": "L11",
+  "cathode": "L7"
+ },
+ {
+  "ref": "D122",
+  "col": 9,
+  "row": 7,
+  "anode": "L7",
+  "cathode": "L0"
+ },
+ {
+  "ref": "D123",
+  "col": 10,
+  "row": 7,
+  "anode": "L7",
+  "cathode": "L1"
+ },
+ {
+  "ref": "D124",
+  "col": 11,
+  "row": 7,
+  "anode": "L7",
+  "cathode": "L2"
+ },
+ {
+  "ref": "D125",
+  "col": 12,
+  "row": 7,
+  "anode": "L7",
+  "cathode": "L3"
+ },
+ {
+  "ref": "D126",
+  "col": 13,
+  "row": 7,
+  "anode": "L7",
+  "cathode": "L4"
+ },
+ {
+  "ref": "D127",
+  "col": 14,
+  "row": 7,
+  "anode": "L7",
+  "cathode": "L5"
+ },
+ {
+  "ref": "D128",
+  "col": 15,
+  "row": 7,
+  "anode": "L7",
+  "cathode": "L6"
+ }
+]
