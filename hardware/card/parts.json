@@ -1216,19 +1216,19 @@
  ],
  [
   "SW1",
-  "Tactile 4.2x3.2 SMD",
-  "Button_Switch_SMD:SW_SPST_PTS810",
-  66.0,
-  19.0,
+  "Tactile 3.7x3.7x0.35 SMD",
+  "wizytowka:SW_TL3312_3.7x3.7mm_H0.35mm",
+  59.075,
+  17.0,
   0,
   "top"
  ],
  [
   "SW2",
-  "Tactile 4.2x3.2 SMD",
-  "Button_Switch_SMD:SW_SPST_PTS810",
-  78.0,
-  19.0,
+  "Tactile 3.7x3.7x0.35 SMD",
+  "wizytowka:SW_TL3312_3.7x3.7mm_H0.35mm",
+  73.075,
+  17.0,
   0,
   "top"
  ],

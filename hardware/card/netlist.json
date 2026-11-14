@@ -1234,22 +1234,22 @@
   "value": "4x33R"
  },
  "SW1": {
-  "footprint": "Button_Switch_SMD:SW_SPST_PTS810",
+  "footprint": "wizytowka:SW_TL3312_3.7x3.7mm_H0.35mm",
   "pins": {
    "1": "BTN_A",
    "2": "GND"
   },
   "uuid": "a789eab0-d4e3-504a-83b4-2f923768b584",
-  "value": "PTS810"
+  "value": "TL3312"
  },
  "SW2": {
-  "footprint": "Button_Switch_SMD:SW_SPST_PTS810",
+  "footprint": "wizytowka:SW_TL3312_3.7x3.7mm_H0.35mm",
   "pins": {
    "1": "BTN_B",
    "2": "GND"
   },
   "uuid": "98fe572e-9285-583f-b7e8-54b2a9e5e403",
-  "value": "PTS810"
+  "value": "TL3312"
  },
  "TP1": {
   "footprint": "TestPoint:TestPoint_Pad_D1.5mm",

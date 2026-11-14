@@ -5,5 +5,5 @@ Qty,References,Value / part,Footprint,Side,Notes
 1,C1,100nF 0402 X7R,Capacitor_SMD:C_0402_1005Metric,bottom,
 1,C2,22uF 0805 X5R 6.3V,Capacitor_SMD:C_0805_2012Metric,bottom,
 1,Q1,AO3401A P-MOSFET,Package_TO_SOT_SMD:SOT-23,bottom,"reverse-battery protection; any SOT-23 P-MOSFET, Vgs(th) < 1.3 V"
-2,"SW1,SW2",Tactile 4.2x3.2 SMD,Button_Switch_SMD:SW_SPST_PTS810,top,"SMD tact switch 4.2 x 3.2 mm, e.g. C&K PTS810 / XKB TS-1187A"
+2,"SW1,SW2",Tactile 3.7x3.7x0.35 SMD,wizytowka:SW_TL3312_3.7x3.7mm_H0.35mm,top,"ultra-flat SMD tact switch 3.7 x 3.7 x 0.35 mm, snap dome: E-Switch TL3312NF160Q / C&K PTS540 / Shou Han TS3735PA"
 1,BT1,CR2032 (card fork holder),wizytowka:CR2032_PCB_FORK,bottom,"CR2032 cell - no holder part, held by the one-tongue fork cut in the card"

@@ -8,3 +8,6 @@ _autosave-*
 fab/*/gerber/
 # python
 __pycache__/
+gen/*
+gen/card.py
+gen/models3d.py
